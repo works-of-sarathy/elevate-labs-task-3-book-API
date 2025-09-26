@@ -1,4 +1,4 @@
-# Elevate Labs - Task 3  
+# Elevate Labs Internship – Task 3
 
 A simple **Node.js + Express** REST API to manage a list of books.  
 This project is part of the **Elevate Labs Internship – Task 3** and demonstrates the basics of **CRUD operations, Express routing, HTTP methods, and JSON handling** using in-memory storage (no database).  
